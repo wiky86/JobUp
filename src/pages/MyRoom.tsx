@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronLeft, Share2, Package, Diamond, Palette, Box, BookOpen, Calendar, Trophy, Crown, Target, CheckCircle2 } from 'lucide-react';
+import { ChevronLeft, Share2, Diamond, Palette, Box, Trophy, Crown, Target, CheckCircle2 } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 export default function MyRoom() {
